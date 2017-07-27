@@ -16,7 +16,7 @@ public class VideosView extends VerticalLayout implements View {
 
 
         layout.setHeight("93%");
-//        layout.setWidth("50%");
+        layout.setWidth("50%");
 
 //        this.setHeight("100%");
 //        this.setWidth("50%");
